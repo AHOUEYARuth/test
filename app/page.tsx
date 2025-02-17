@@ -88,6 +88,7 @@ export default function Home() {
             height={16}
           />
           Go to nextjs.org →
+          Amra
         </a>
       </footer>
     </div>
